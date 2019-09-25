@@ -13,4 +13,4 @@ doc.css(".headline-26OIBN").text
 #     puts course.text.strip
 # end
 
-#p doc.css(".title-oE5vT4")[0].children
+p doc.css(".title-oE5vT4")[0].children
